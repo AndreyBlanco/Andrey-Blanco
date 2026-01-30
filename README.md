@@ -17,7 +17,7 @@ I am actively seeking a **Frontend / Software Development role** where I can con
 
 ---
 
-## 🎓 Education
+## Education
 
 **B.S. in Applied Technology** *(Expected Graduation: September 2025)*  
 **Brigham Young University – Idaho (BYU Pathway Worldwide)*
@@ -32,7 +32,7 @@ I am actively seeking a **Frontend / Software Development role** where I can con
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Frontend
 - JavaScript (ES6+)
@@ -40,10 +40,12 @@ I am actively seeking a **Frontend / Software Development role** where I can con
 - HTML5, CSS3
 - TypeScript
 - Tailwind CSS
+- Blazor
 
 ### Backend & APIs
 - Node.js
 - RESTful API Integration
+- .Net
 
 ### Databases
 - SQL Server
@@ -61,8 +63,13 @@ I am actively seeking a **Frontend / Software Development role** where I can con
 - Google Cloud Platform (basic)
 - AWS (basic)
 
-### Design Background (Bonus)
+### Design Background
 - Adobe Illustrator
+- Adobe Photoshop
+- Adobe InDesign
+- CorelDraw
+- 3D Studio Max
+- Autodesk AutoCAD
 - 3D Modeling
 - 2D & 3D Animation
 
