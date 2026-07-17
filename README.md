@@ -1,6 +1,6 @@
 # Hi, I'm Andrey Blanco
 
-### Frontend Developer | Full Stack Developer | Software Development Student  
+### Frontend Developer | Full Stack Developer | Software Developer 
 Costa Rica | Open to Remote Opportunities
 
 ---
@@ -9,7 +9,7 @@ Costa Rica | Open to Remote Opportunities
 
 I am a **Frontend / Full Stack Developer** with a strong background in **web development, databases, and digital design**, currently transitioning fully into a professional software engineering role.
 
-I have over **20 years of experience as an independent designer**, working with real clients and real-world projects. In recent years, I have expanded my professional profile by completing multiple certifications in **Web Development, Programming, and Databases**, and I am currently finishing a **Software Development Certificate** as part of a **B.S. in Applied Technology** at **BYU-Idaho (BYU Pathway Worldwide)**.
+I have over **20 years of experience as an independent designer**, working with real clients and real-world projects. In recent years, I have expanded my professional profile by completing multiple certifications in **Web Development, Programming, Databases, and Software Development Certificate** as part of a **B.S. in Software Development** at **BYU-Idaho (BYU Pathway Worldwide)**.
 
 My unique combination of **technical skills, problem-solving mindset, and design experience** allows me to build **clean, responsive, and user-focused web applications**, while collaborating effectively in Agile, team-based environments.
 
@@ -19,16 +19,14 @@ I am actively seeking a **Frontend / Software Development role** where I can con
 
 ## Education
 
-**B.S. in Applied Technology** *(Expected Graduation: September 2025)*  
+**B.S. in Software Development**
 **Brigham Young University – Idaho (BYU Pathway Worldwide)*
 
 **Certificates Completed:**
 - Web & Computer Programming
 - Web Development
 - Databases
-
-**Currently Completing:**
-- Software Development Certificate
+- Software Development
 
 ---
 
